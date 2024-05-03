@@ -1,0 +1,15 @@
+C:\Users\NGUYENNHUTQUOC\RiderProjects\learning-algorithm\DynamicProgramming\obj\Debug\net8.0\DynamicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYENNHUTQUOC\RiderProjects\learning-algorithm\DynamicProgramming\obj\Debug\net8.0\DynamicProgramming.AssemblyInfoInputs.cache
+C:\Users\NGUYENNHUTQUOC\RiderProjects\learning-algorithm\DynamicProgramming\obj\Debug\net8.0\DynamicProgramming.AssemblyInfo.cs
+C:\Users\NGUYENNHUTQUOC\RiderProjects\learning-algorithm\DynamicProgramming\obj\Debug\net8.0\DynamicProgramming.csproj.CoreCompileInputs.cache
+C:\Users\NGUYENNHUTQUOC\RiderProjects\learning-algorithm\DynamicProgramming\obj\Debug\net8.0\DynamicProgramming.sourcelink.json
+C:\Users\NGUYENNHUTQUOC\RiderProjects\learning-algorithm\DynamicProgramming\bin\Debug\net8.0\DynamicProgramming.exe
+C:\Users\NGUYENNHUTQUOC\RiderProjects\learning-algorithm\DynamicProgramming\bin\Debug\net8.0\DynamicProgramming.deps.json
+C:\Users\NGUYENNHUTQUOC\RiderProjects\learning-algorithm\DynamicProgramming\bin\Debug\net8.0\DynamicProgramming.runtimeconfig.json
+C:\Users\NGUYENNHUTQUOC\RiderProjects\learning-algorithm\DynamicProgramming\bin\Debug\net8.0\DynamicProgramming.dll
+C:\Users\NGUYENNHUTQUOC\RiderProjects\learning-algorithm\DynamicProgramming\bin\Debug\net8.0\DynamicProgramming.pdb
+C:\Users\NGUYENNHUTQUOC\RiderProjects\learning-algorithm\DynamicProgramming\obj\Debug\net8.0\DynamicProgramming.dll
+C:\Users\NGUYENNHUTQUOC\RiderProjects\learning-algorithm\DynamicProgramming\obj\Debug\net8.0\refint\DynamicProgramming.dll
+C:\Users\NGUYENNHUTQUOC\RiderProjects\learning-algorithm\DynamicProgramming\obj\Debug\net8.0\DynamicProgramming.pdb
+C:\Users\NGUYENNHUTQUOC\RiderProjects\learning-algorithm\DynamicProgramming\obj\Debug\net8.0\DynamicProgramming.genruntimeconfig.cache
+C:\Users\NGUYENNHUTQUOC\RiderProjects\learning-algorithm\DynamicProgramming\obj\Debug\net8.0\ref\DynamicProgramming.dll
